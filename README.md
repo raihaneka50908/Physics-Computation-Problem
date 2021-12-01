@@ -1,2 +1,3 @@
 # Physics-Computation-Problem
-Solving differential equation
+Solving second order differential equation:
+$$\frac{d^{2}y}{dt{2}}+2\beta$$
